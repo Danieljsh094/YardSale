@@ -165,6 +165,7 @@ aside {
   box-sizing: border-box;
   position: absolute;
   right: 0;
+  box-shadow: -4px 3px 10px var(--black);
 }
 
 /* ShoppingCart */
@@ -251,6 +252,7 @@ aside {
   padding: 12px;
   border-radius: 50%;
 }
+
 .product-detail-close:hover {
   cursor: pointer;
 }
@@ -261,7 +263,7 @@ aside {
   border-radius: 0 0 20px 20px;
 }
 #productDetail .product-info {
-  margin: 24px 24px 0 24px;
+  margin: 24px 24px 6px 24px;
 }
 #productDetail .product-info p:nth-child(1) {
   font-weight: bold;
