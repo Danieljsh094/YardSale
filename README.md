@@ -1,6 +1,5 @@
-Demo del Proyecto: https://danieljsh094.github.io/YardSale/
-
 # Proyecto-Front-Developers
+Demo del Proyecto: https://danieljsh094.github.io/YardSale/
  Proyecto practico HTML, CSS, JAVASCRIPT E-Comerce (Yard Sale)
  
  Agregamos los archivos index.html, style.css y main.js para fusionar todos los componentes de la vista principal.
